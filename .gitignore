@@ -11,5 +11,7 @@ python/shoe_sorting/.vscode
 python/shoe_sorting/*.md
 .vscode/**
 python/shoe_sorting/back/*
+.idea/
+
 
 
