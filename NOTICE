@@ -1,0 +1,14 @@
+八界机器人 SDK demos and SDK packages
+Copyright (c) 2026 八界机器人
+
+This repository is licensed under the Apache License, Version 2.0.
+See LICENSE for the full license text.
+
+This repository includes demo source code, documentation, build scripts,
+Python `bajie_sdk` wheel packages, and the prebuilt C++ `robot_sdk` headers
+and shared libraries under `cpp/depend/`.
+
+Third-party open-source software used by this repository remains governed
+by its own licenses. The Apache-2.0 license for this repository does not
+replace or modify the license terms of third-party components.
+

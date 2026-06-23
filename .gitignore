@@ -1,0 +1,15 @@
+__pycache__/
+.cursor/
+build/
+.vscode/launch.json
+pyrightconfig.json
+.codex
+out/
+outputs/
+__init__.py
+python/shoe_sorting/.vscode
+python/shoe_sorting/*.md
+.vscode/**
+python/shoe_sorting/back/*
+
+
